@@ -6,7 +6,8 @@
   <meta name="description" content="">
   <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
   <meta name="generator" content="Hugo 0.84.0">
-  <title>Album example · Bootstrap v5.0</title>
+  <link rel="icon" href="img/perrai.png" sizes="16x16" type="image/png">
+  <title>Album Animals</title>
 
   <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/album/">
 
@@ -53,7 +54,7 @@
     </div>
     <div class="navbar navbar-dark bg-dark shadow-sm">
       <div class="container">
-        <a href="#" class="navbar-brand d-flex align-items-center">
+        <a href="index.php" class="navbar-brand d-flex align-items-center">
 
 
 
@@ -117,7 +118,7 @@
   </div>
 
 
-  <footer class="text-muted py-5">
+  <footer class="text-muted py-5 position-absolute bottom-0 start-50 translate-middle-x">
     <div class="container">
       <bottom class="btn float-end btn-primary">
         <a>Back to top</a>
